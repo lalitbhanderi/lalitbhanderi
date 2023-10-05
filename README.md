@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"/>👋, I'm Lalit Bhanderi</h1>
+<h1 align="center">Hello there 👋, I'm Lalit Bhanderi</h1>
 
 - 🔭 I work extensively on the React ecosystem
 - 🤔 Always on the lookout for new ideas to develop

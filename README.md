@@ -2,7 +2,7 @@
 
 - 🔭 I work extensively on the React ecosystem
 - 🤔 Always on the lookout for new ideas to develop
-- 📫 How to reach me **lalitbhanderi73@gmail.com**
+- 📫 How to reach me **lalit.bhanderi@hotmail.com**
 
 ## Contact me at
 

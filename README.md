@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Bhanderi</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • NestJS | SaaS & AI Apps | Scalable API Systems</h3>
+<h3 align="center">Full Stack Engineer | React.js • Next.js • Node.js • NestJS | SaaS & AI Apps | Scalable API Systems</h3>
 
 <p align="center">
 🚀 I help startups and businesses build fast, scalable, and user-friendly web applications.
